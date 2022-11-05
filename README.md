@@ -1,2 +1,6 @@
 # simple_Client-Server
-simple Client/Server communication with socket
+it's a test of socket module in python
+## Installation
+```commandline
+git clone https://github.com/Filimon4/simple_Client-Server.git
+```
